@@ -1,5 +1,5 @@
 /*****
- * Nathan Brass
+ * Nathan Brass 
  ******/
 public class GitDemo {
     
